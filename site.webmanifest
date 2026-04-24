@@ -1,0 +1,9 @@
+{
+  "name": "Relic Siege",
+  "short_name": "Relic Siege",
+  "description": "A browser action RPG with loot upgrades, abilities, and boss fights every 10 levels.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071019",
+  "theme_color": "#12243a"
+}

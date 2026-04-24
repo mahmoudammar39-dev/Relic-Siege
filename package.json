@@ -1,0 +1,10 @@
+{
+  "name": "relic-siege",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static browser action RPG ready for easy hosting.",
+  "scripts": {
+    "start": "node server.js",
+    "preview": "node server.js"
+  }
+}
